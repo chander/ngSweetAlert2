@@ -1,6 +1,6 @@
 {
   "name": "ngSweetAlert2",
-  "version": "0.0.3",
+  "version": "2.0.0",
   "main": "./SweetAlert2.js",
   "author": "joshtate04@me.com",
   "description": "AngularJS wrapper for SweetAlert2",

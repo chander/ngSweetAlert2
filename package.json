@@ -1,6 +1,6 @@
 {
   "name": "angular-sweetalert2",
-  "version": "0.0.3",
+  "version": "2.0.0",
   "description": "AngularJS wrapper for SweetAlert2",
   "main": "SweetAlert2.js",
   "scripts": {
