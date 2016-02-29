@@ -7,7 +7,7 @@
 
 'use strict';
 
-angular.module('oitozero.ngSweetAlert', [])
+angular.module('joshtate04.ngSweetAlert2', [])
 .factory('SweetAlert', [ '$rootScope', function ( $rootScope ) {
 
 	var swal = window.swal;
