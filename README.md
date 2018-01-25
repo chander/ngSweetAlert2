@@ -3,7 +3,7 @@
 AngularJS wrapper for [SweetAlert2](https://sweetalert2.github.io/). Sweet Alert is a beautiful replacement for Javascript's "Alert".
 
 ## Demo
-[http://chander.github.io/ngSweetAlert2/](http://oitozero.github.io/ngSweetAlert/)
+[http://chander.github.io/ngSweetAlert2/](http://chander.github.io/ngSweetAlert2/)
 
 ## Dependencies
 - required:  
