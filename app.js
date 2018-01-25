@@ -7,7 +7,7 @@
 
 angular.module('myApp', [
 'ngRoute', 'ngSanitize', 'ngTouch',		//additional angular modules
-'chander.ngSweetAlert'
+'chander.ngSweetAlert2'
 ]).
 config(['$routeProvider', '$locationProvider', '$compileProvider', function($routeProvider, $locationProvider, $compileProvider) {
 	/**
@@ -20,7 +20,7 @@ config(['$routeProvider', '$locationProvider', '$compileProvider', function($rou
 	var staticPath;
 	// staticPath ='/angular-services/ngSweetAlert/';		//local
 	// staticPath ='/';		//nodejs (local)
-	staticPath ='/ngSweetAlert/';		//gh-pages
+	staticPath ='/ngSweetAlert2/';		//gh-pages
 	var appPathRoute ='/';
 	var pagesPath =staticPath+'pages/';
 	
